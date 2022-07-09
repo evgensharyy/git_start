@@ -1,2 +1,3 @@
 work();
 jump();
+wakeup();
